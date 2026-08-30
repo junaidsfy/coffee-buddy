@@ -29,13 +29,13 @@ export const MobileActionBar: React.FC<MobileActionBarProps> = ({
   };
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-40 sm:hidden p-3 pb-safe bg-white/95 backdrop-blur-md border-t border-[#EFE7DD] shadow-[0_-4px_20px_rgba(0,0,0,0.08)]">
-      <div className="grid grid-cols-3 gap-2 max-w-md mx-auto">
+    <div className="fixed bottom-0 left-0 right-0 z-40 sm:hidden p-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] bg-transparent pointer-events-none">
+      <div className="grid grid-cols-3 gap-2 max-w-md mx-auto pointer-events-auto">
         {/* Menu */}
         <button
           type="button"
           onClick={handleMenuClick}
-          className="flex flex-col items-center justify-center py-2 px-1 rounded-xl bg-[#FAF7F2] text-[#2C211A] hover:bg-[#F2EAE0] active:scale-95 transition-all text-xs font-semibold"
+          className="flex flex-col items-center justify-center py-2 px-1 rounded-xl bg-[#FAF7F2] text-[#2C211A] hover:bg-[#F2EAE0] active:scale-95 transition-all text-xs font-semibold shadow-md"
         >
           <Coffee className="w-5 h-5 text-[#8C5E35] mb-1" />
           <span>Menu</span>
@@ -56,7 +56,7 @@ export const MobileActionBar: React.FC<MobileActionBarProps> = ({
         <button
           type="button"
           onClick={handleDirectionsClick}
-          className="flex flex-col items-center justify-center py-2 px-1 rounded-xl bg-[#FAF7F2] text-[#2C211A] hover:bg-[#F2EAE0] active:scale-95 transition-all text-xs font-semibold"
+          className="flex flex-col items-center justify-center py-2 px-1 rounded-xl bg-[#FAF7F2] text-[#2C211A] hover:bg-[#F2EAE0] active:scale-95 transition-all text-xs font-semibold shadow-md"
         >
           <MapPin className="w-5 h-5 text-[#8C5E35] mb-1" />
           <span>Directions</span>
