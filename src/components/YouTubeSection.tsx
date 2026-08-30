@@ -30,7 +30,7 @@ export const YouTubeSection: React.FC = () => {
               YouTube Channel
             </div>
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-serif font-bold text-[#231B15] tracking-tight">
-              Watch Coffee Buddy
+              Watch Coffee Buddys
             </h2>
             <p className="mt-1.5 text-xs sm:text-sm text-[#6E5D4F]">
               Brewing tutorials, origin stories, and café vlogs on our official channel.

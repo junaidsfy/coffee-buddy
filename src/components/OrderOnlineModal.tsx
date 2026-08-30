@@ -89,7 +89,7 @@ export const OrderOnlineModal: React.FC<OrderOnlineModalProps> = ({
                   Instant Doorstep Delivery
                 </div>
                 <h2 className="text-2xl sm:text-3xl font-serif font-bold text-[#231B15] tracking-tight">
-                  Order Coffee Buddy
+                  Order Coffee Buddys
                 </h2>
                 <p className="text-[#6E5D4F] text-sm sm:text-base mt-1">
                   Choose your preferred delivery platform.

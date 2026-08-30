@@ -77,7 +77,7 @@ export const MenuActionModal: React.FC<MenuActionModalProps> = ({
               <div>
                 <div className="inline-flex items-center gap-2 px-2.5 py-1 rounded-full bg-[#EFE7DD] text-[#8C5E35] text-xs font-semibold tracking-wider uppercase mb-2">
                   <Sparkles className="w-3.5 h-3.5" />
-                  Coffee Buddy Experience
+                  Coffee Buddys Experience
                 </div>
                 <h2 className="text-2xl sm:text-3xl font-serif font-bold text-[#231B15] tracking-tight">
                   What would you like to do?

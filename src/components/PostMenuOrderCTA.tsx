@@ -38,7 +38,7 @@ export const PostMenuOrderCTA: React.FC<PostMenuOrderCTAProps> = ({
             Craving it already?
           </h3>
           <p className="text-sm sm:text-base text-[#C4B5A5] max-w-md">
-            Get your Coffee Buddy favorites delivered steaming hot or refreshingly chilled right to your door.
+            Get your Coffee Buddys favorites delivered steaming hot or refreshingly chilled right to your door.
           </p>
         </div>
 

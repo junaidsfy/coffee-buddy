@@ -34,7 +34,7 @@ export const InstagramGallery: React.FC = () => {
             Instagram Feed & Moments
           </div>
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif font-bold text-[#231B15] tracking-tight">
-            Follow the Coffee Buddy Journey
+            Follow the Coffee Buddys Journey
           </h2>
           <p className="mt-3 text-sm sm:text-base text-[#6E5D4F]">
             From artisan latte art to cozy café corners and daily roasts. Tag us <span className="font-semibold text-[#8C5E35]">@coffeebuddy2026</span> to be featured!

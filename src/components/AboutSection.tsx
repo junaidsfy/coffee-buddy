@@ -38,7 +38,7 @@ export const AboutSection: React.FC = () => {
                   “Great coffee isn’t just a beverage, it’s the quiet anchor of your day.”
                 </p>
                 <span className="text-xs uppercase tracking-widest text-[#E8D9C7] font-semibold mt-2 block">
-                  — The Coffee Buddy Philosophy
+                  — The Coffee Buddys Philosophy
                 </span>
               </div>
             </motion.div>

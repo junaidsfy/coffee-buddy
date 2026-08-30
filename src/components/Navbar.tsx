@@ -95,7 +95,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <span className={`font-serif text-xl sm:text-2xl font-bold tracking-tight block leading-tight ${
                 isScrolled ? 'text-[#231B15]' : 'text-white drop-shadow-sm'
               }`}>
-                Coffee Buddy
+                Coffee Buddys
               </span>
               <span className={`text-[10px] sm:text-xs uppercase tracking-widest block font-medium ${
                 isScrolled ? 'text-[#8C5E35]' : 'text-[#E8D9C7] drop-shadow-sm'
@@ -223,7 +223,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   <div className="w-8 h-8 rounded-lg bg-[#2A1F18] text-white flex items-center justify-center">
                     <Coffee className="w-4 h-4" />
                   </div>
-                  <span className="font-serif font-bold text-lg text-[#231B15]">Coffee Buddy</span>
+                  <span className="font-serif font-bold text-lg text-[#231B15]">Coffee Buddys</span>
                 </div>
                 <button
                   type="button"

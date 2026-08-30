@@ -62,7 +62,7 @@ export const Footer: React.FC<FooterProps> = ({
               </div>
               <div>
                 <span className="font-serif text-2xl font-bold text-white tracking-tight block">
-                  Coffee Buddy
+                  Coffee Buddys
                 </span>
                 <span className="text-xs uppercase tracking-widest text-[#8C5E35] font-semibold">
                   Specialty Café & Roastery
@@ -77,7 +77,7 @@ export const Footer: React.FC<FooterProps> = ({
             {/* Social Channels Area */}
             <div className="space-y-3 pt-2">
               <span className="text-xs font-bold uppercase tracking-wider text-[#E8D9C7] block">
-                Follow Coffee Buddy
+                Follow Coffee Buddys
               </span>
               <div className="flex items-center gap-3">
                 {/* Official Instagram */}
@@ -253,7 +253,7 @@ export const Footer: React.FC<FooterProps> = ({
 
         {/* Bottom Copyright & SEO Note */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#7A6A5E]">
-          <p>© {new Date().getFullYear()} Coffee Buddy. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Coffee Buddys. All rights reserved.</p>
           <div className="flex items-center gap-4">
             <a href="#hero" className="hover:text-white transition-colors">Back to Top ↑</a>
             <span>•</span>

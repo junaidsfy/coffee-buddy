@@ -152,7 +152,7 @@ export const LocationSection: React.FC = () => {
             ) : (
               <div className="w-full h-full flex flex-col items-center justify-center p-8 text-center bg-[#FAF7F2]">
                 <MapPin className="w-12 h-12 text-[#8C5E35] mb-3" />
-                <h3 className="font-bold text-lg text-[#231B15]">Coffee Buddy Café</h3>
+                <h3 className="font-bold text-lg text-[#231B15]">Coffee Buddys Café</h3>
                 <p className="text-sm text-[#6E5D4F] max-w-sm mt-1 mb-4">
                   {CAFE_DATA.address.full}
                 </p>

@@ -81,7 +81,7 @@ export const Hero: React.FC<HeroProps> = ({
           transition={{ duration: 0.7, delay: 0.2 }}
           className="font-serif text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-bold text-[#FAF7F2] tracking-tight leading-[1.08] max-w-4xl"
         >
-          COFFEE BUDDY
+          COFFEE BUDDYS
         </motion.h1>
 
         {/* Brand Tagline */}

@@ -1,6 +1,6 @@
 {
-  "name": "Coffee Buddy",
-  "description": "Coffee Buddy - Specialty coffee, delicious food, and good moments. Order online on Zomato & Swiggy or visit our café.",
+  "name": "Coffee Buddys",
+  "description": "Coffee Buddys - Specialty coffee, delicious food, and good moments. Order online on Zomato & Swiggy or visit our café.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

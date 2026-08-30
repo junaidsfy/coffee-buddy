@@ -93,7 +93,7 @@ export const LightboxModal: React.FC<LightboxModalProps> = ({ item, onClose }) =
                     <span>coffeebuddy2026</span>
                     <span className="w-1.5 h-1.5 rounded-full bg-[#E1306C]" />
                   </h4>
-                  <span className="text-[11px] text-[#8C5E35]">Coffee Buddy Café</span>
+                  <span className="text-[11px] text-[#8C5E35]">Coffee Buddys Café</span>
                 </div>
               </div>
 
